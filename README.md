@@ -1,4 +1,4 @@
-#  LSD (Line Segment Detector) 
+#  LSD (Line Segment Detection) 
 ## Introdution
 In computer vision region, detection of the line on the images in real time is an useful function, because it has a lot of downstream task, such as vanish point method base camera calibration and road marking segmentation.
 
